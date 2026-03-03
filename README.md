@@ -17,7 +17,10 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [Elements of AI – University of Helsinki](https://course.elementsofai.com/)
 - [Machine Learning Playlist - Josh Strarmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 - [Machine Learning Specialization - Coursera](https://www.coursera.org/specializations/machine-learning-introduction)
-
+- [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [Why Machines Learn](https://www.amazon.com/Why-Machines-Learn-Elegant-Behind/dp/0593185749)
+- [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
+  
 ### Machine Learning Frameworks
 - [Scikit-learn](https://scikit-learn.org/stable/)
 - [XGBoost](https://xgboost.ai/)
@@ -29,6 +32,8 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [Practical Deep Learning for Coders - Fast.ai](https://course.fast.ai/)
 - [Mathematics for Deep Learning](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/)
 - [Deep Learning Playlist - Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
+- [Deep Learning - Ian Goodfellow](https://www.deeplearningbook.org/)
+- [Deep Learning with Python](https://www.amazon.in/Deep-Learning-Python-Francois-Chollet/dp/1617294438/)
 
 ### Deep Learning Frameworks
 - [TensorFlow](https://www.tensorflow.org/)
@@ -40,6 +45,7 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [Deep Learning for Computer Vision - Stanford](https://cs231n.stanford.edu/)
 ### Natural Language Processing (NLP)
 - [NLP Specialization - Coursera](https://www.coursera.org/specializations/natural-language-processing)
+- [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
 ### Reinforcement Learning
 - [Deep RL Course - Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
 - [Deep RL Bootcamp - UC Berkeley](https://sites.google.com/view/deep-rl-bootcamp/lectures)
@@ -64,6 +70,9 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [LLM Course - GitHub](https://github.com/mlabonne/llm-course)
 - [LLM Course - Hugging Face](https://huggingface.co/learn/llm-course/chapter1/1)
 - [Awesome LLM Apps - GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [Build a LLM from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+- [Build a Reasoning Model (From Scratch)](https://www.manning.com/books/build-a-reasoning-model-from-scratch)
+- [Build an LLM Application (from Scratch)](https://www.manning.com/books/build-llm-applications-from-scratch)
 
 ### LLM Chatbots
 - [ChatGPT](https://chatgpt.com/)
@@ -104,6 +113,7 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [Prompt Engineering Techniques - Github](https://github.com/NirDiamant/Prompt_Engineering)
 - [Getting Structured LLM Output - Deeplearning.ai](https://www.deeplearning.ai/short-courses/getting-structured-llm-output/)
 - [God Tier Prompts](https://www.godtierprompts.com/)
+- [Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/)
 
 ## Retrieval-Augmented Generation (RAG)
 - [Introduction to RAG - Coursera](https://www.coursera.org/projects/introduction-to-rag)
@@ -116,6 +126,8 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [Building AI Browser Agents - Deeplearning.ai](https://www.deeplearning.ai/short-courses/building-ai-browser-agents/)
 - [GenAI Agents - Github](https://github.com/NirDiamant/GenAI_Agents)
 - [AI Agents in Action, Second Edition - Book](https://www.manning.com/books/ai-agents-in-action-second-edition)
+- [Build a Multi-Agent System (from Scratch)](https://www.manning.com/books/build-a-multi-agent-system-from-scratch)
+- [Build an AI Agent (From Scratch)](https://www.manning.com/books/build-an-ai-agent-from-scratch)
 
 ## Model Context Protocol (MCP)
 - [MCP - Anthropic Guide](https://modelcontextprotocol.io/introduction)
@@ -124,9 +136,11 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [Awesome MCP Servers - Github](https://github.com/punkpeye/awesome-mcp-servers)
 
 ## MLOps & Deployment
+- **[AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)**
 - [ML in Production - Coursera](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/)
 - [ML System Design - Stanford](https://stanford-cs329s.github.io/syllabus.html)
+- [LLMs in Production](https://www.manning.com/books/llms-in-production)
 
 ### Tools
 - [Streamlit](https://streamlit.io/)
@@ -135,24 +149,6 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 ## Guides
 - [OpenAI Cookbook](https://cookbook.openai.com/)
 - [Anthropic courses](https://github.com/anthropics/courses/tree/master)
-
-## Books
-- [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- [Deep Learning - Ian Goodfellow](https://www.deeplearningbook.org/)
-- [Deep Learning with Python](https://www.amazon.in/Deep-Learning-Python-Francois-Chollet/dp/1617294438/)
-- [Why Machines Learn](https://www.amazon.com/Why-Machines-Learn-Elegant-Behind/dp/0593185749)
-- [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
-- [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
-- [Build a LLM from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-- [Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/)
-- [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
-- [Build a Multi-Agent System (from Scratch)](https://www.manning.com/books/build-a-multi-agent-system-from-scratch)
-- [Build a Reasoning Model (From Scratch)](https://www.manning.com/books/build-a-reasoning-model-from-scratch)
-- [Build an AI Agent (From Scratch)](https://www.manning.com/books/build-an-ai-agent-from-scratch)
-- [Build an LLM Application (from Scratch)](https://www.manning.com/books/build-llm-applications-from-scratch)
-- [AI Agents in Action](https://www.manning.com/books/gpt-agents-in-action)
-- [AI Agents in Action, Second Edition](https://www.manning.com/books/ai-agents-in-action-second-edition)
-- [LLMs in Production](https://www.manning.com/books/llms-in-production)
 
 ## YouTube Channels
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
