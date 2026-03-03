@@ -9,7 +9,7 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [Mathematics for Machine Learning Specialization - Coursera (Andrew Ng)](https://www.coursera.org/specializations/mathematics-machine-learning)
 
 ## Python
-- [AI Python for Beginners - Deeplearning.ai](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
+- [Notes](https://github.com/nimisha-sen/AI-ML-engineering-resources/blob/main/Notes/python/AI%20Python%20for%20Beginners%20-%20Deeplearning.ai) [AI Python for Beginners - Deeplearning.ai](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) 
 
 ## AI & ML Fundamentals
 - [Machine Learning Crash Course - Google](https://developers.google.com/machine-learning/crash-course)
