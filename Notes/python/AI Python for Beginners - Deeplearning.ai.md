@@ -1,4 +1,4 @@
-## Module 1 
+## Module 1 - Basics
 - Computer programing is the art and science of writing very precise instructions to tell a computer what you want it to do for you. And it turns out that when you write good instructions, computers could do a lot.
 - Gives you an edge to any professional - automate repetive tasks, analyse lots of data, build, improve & use AI models.
 - Data in python - text (**str**), numbers, tabular data, images and sounds
