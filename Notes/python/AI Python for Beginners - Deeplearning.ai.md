@@ -24,4 +24,11 @@
         3 in binary = 011,
         XOR them bit by bit: 101 XOR 011 = 110,
         110 in binary = 6, so 5 ^ 3 = 6   --- Common uses: toggling bits, simple checks for parity, and some algorithms that cancel duplicates.
-- 
+
+- #### Order of operations
+The order of operations in Python is the same as in arithmetic. First, you compute parentheses, then exponents, then you multiply and divide (from left to right), and finally, you add and subtract (from left to right).
+
+So, if you are trying to convert from Fahrenheit to Celsius, it should be:
+```
+print((75 - 32) * 5 / 9)
+```
