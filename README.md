@@ -9,9 +9,8 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [Mathematics for Machine Learning Specialization - Coursera (Andrew Ng)](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [The Manga Guide to Calculus](https://www.amazon.co.uk/Manga-Guide-Calculus-Hiroyuki-Kojima/dp/1593271948)
 - [The Manga Guide to Statistics](https://www.amazon.co.uk/Manga-Guide-Statistics-Shin-Takahashi/dp/1593271891)
-- [The Manga Guide to Algebra](https://www.amazon.co.uk/Manga-Guide-Linear-Algebra-Guides/dp/1593274130/ref=asc_df_1593274130?mcid=429bb4a110633dbb88827c13ecdbbf3a&th=1&psc=1&tag=googshopuk-21&linkCode=df0&hvadid=697215106000&hvpos=&hvnetw=g&hvrand=9764283388040200494&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006886&hvtargid=pla-334293747018&psc=1&hvocijid=9764283388040200494-1593274130-&hvexpln=0&gad_source=1)
-- 
-- 
+- [The Manga Guide to Algebra](https://www.amazon.co.uk/Manga-Guide-Linear-Algebra-Guides/dp/1593274130)
+  
 ## Python
 - [Notes](https://github.com/nimisha-sen/AI-ML-engineering-resources/blob/main/Notes/python/AI%20Python%20for%20Beginners%20-%20Deeplearning.ai.md) | [AI Python for Beginners - Deeplearning.ai](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) 
 
