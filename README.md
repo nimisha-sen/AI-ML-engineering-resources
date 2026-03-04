@@ -139,7 +139,6 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [Awesome MCP Servers - Github](https://github.com/punkpeye/awesome-mcp-servers)
 
 ## MLOps & Deployment
-- **[AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)**
 - [ML in Production - Coursera](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/)
 - [ML System Design - Stanford](https://stanford-cs329s.github.io/syllabus.html)
@@ -152,6 +151,7 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 ## Guides
 - [OpenAI Cookbook](https://cookbook.openai.com/)
 - [Anthropic courses](https://github.com/anthropics/courses/tree/master)
+- *[AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
 
 ## YouTube Channels
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
