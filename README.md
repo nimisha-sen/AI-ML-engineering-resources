@@ -59,6 +59,7 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [The Building Blocks of Generative AI](https://shriftman.substack.com/p/the-building-blocks-of-generative)
 - [Generative AI for Beginners - Microsoft](https://github.com/microsoft/generative-ai-for-beginners)
 - [Generative AI for Everyone - Coursera](https://www.coursera.org/learn/generative-ai-for-everyone)
+- [Generative AI System Design Interview](https://www.amazon.co.uk/dp/1736049143?crid=5MVJGZJTSJLK&keywords=generative+ai+system+design+interview&sprefix=Generative+AI+System+Design+Interview,aps,216&language=en_US&dib_tag=se&ref_=as_li_ss_tl&dib=eyJ2IjoiMSJ9.fq-3-aCYBXmwKTqghtM9tPmbTvV59W-ly-7WSKW3gZ5sU2o00bF9SzsaPDdKVURo4pSK4WfHsS14XsUQESZW686fVVuXzKmHSlnfQjaBS4QS80b25KRtwY6zPqoh1XgoutyEgtiowop9RiugTdofvLgj7h8aeH_tDntFg55DaDk9IMGvW_DJKFTQK9Vjzv_9Meh8nG-L-p1mZ-VUtTft-p5gHiw8uTrxVw5vNec_AEE.nZ5kugIAFMYZReJUX9Mx8nT-vWXBEdgPStmXxreQrG0&sr=8-1&linkCode=gg2&linkId=aed5552ddaac8e745f4b1cb3319e3234&tag=gratitudedriv-20)
 
 ## Large Language Models (LLMs)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
